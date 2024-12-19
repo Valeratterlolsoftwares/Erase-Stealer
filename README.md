@@ -1,4 +1,4 @@
-# Erase Stealer
+# Crash Grabber
 >[!NOTE]
 >INDEV.
 
